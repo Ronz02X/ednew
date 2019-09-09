@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Cambria';
+    src:url('../fonts/Cambria.woff2') format('woff2'),
+        url('../fonts/Cambria.woff') format('woff'),
+        url('../fonts/Cambria.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cambria Math';
+    src:url('../fonts/CambriaMath.woff2') format('woff2'),
+        url('../fonts/CambriaMath.woff') format('woff'),
+        url('../fonts/CambriaMath.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
